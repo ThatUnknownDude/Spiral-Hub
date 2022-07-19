@@ -1,5 +1,5 @@
 -- This User Interface Library is brought to you by Solaris Software.
-if game.CoreGui:FindFirstChild("uwuui) then
+if game.CoreGui:FindFirstChild("uwuui") then
   game.CoreGui.uwuui:Destroy()
 end
 game:GetService("UserInputService").InputBegan:connect(
